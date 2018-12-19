@@ -22,15 +22,15 @@
 
 ## φωτογραφιες πρωτου παραδοτεου 
 
-# Γράφημα 1: https://p17theo3.github.io/D3js-US-educational-attainment/#national
+# Γράφημα 1
 
 ![capture1](https://user-images.githubusercontent.com/44111276/50214679-89464f00-0389-11e9-8aba-ce7d277573b5.PNG)
 
-# Γράφημα 2:https://p17theo3.github.io/D3js-US-educational-attainment/#regional
+# Γράφημα 2 https://p17theo3.github.io/D3js-US-educational-attainment/#regional
 
 ![2](https://user-images.githubusercontent.com/44111276/50214839-e93cf580-0389-11e9-814e-a07044aae8bf.PNG)
 
-# Γράφημα 3:https://p17theo3.github.io/D3js-US-educational-attainment/#state
+# Γράφημα 3 https://p17theo3.github.io/D3js-US-educational-attainment/#state
 
 ![48098851-8f8fca00-e226-11e8-92de-0d28e1a43359](https://user-images.githubusercontent.com/44111276/50214873-0ec9ff00-038a-11e9-8b55-c86a376500f5.PNG)
 
