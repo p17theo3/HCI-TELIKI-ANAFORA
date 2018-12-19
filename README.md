@@ -54,7 +54,18 @@
 
 ![capture](https://user-images.githubusercontent.com/44111276/50217602-ca426180-0391-11e9-9b68-1e225d9760a8.PNG)
 
-# [Καινουργια σελιδα με δικα μας γραφηματα](http://www.statistics.gr 'ΕΛΣΤΑΤ')
+# Καινουργια σελιδα με δικα μας γραφηματα
+
+![capture](https://user-images.githubusercontent.com/44111276/50217957-fad6cb00-0392-11e9-8837-4590d3f58e54.PNG)
+
+![capture](https://user-images.githubusercontent.com/44111276/50217995-1a6df380-0393-11e9-9757-a1943fa90d61.PNG)
+
+![capture](https://user-images.githubusercontent.com/44111276/50218036-3a051c00-0393-11e9-9a5f-d9ffccba1e07.PNG)
+
+
+# [ΠΗΓΗ ΣΤΑΤΙΣΤΙΚΩΝ ΕΛΣΤΑΤ](http://www.statistics.gr 'ΕΛΣΤΑΤ')
+
+
 
 
 
